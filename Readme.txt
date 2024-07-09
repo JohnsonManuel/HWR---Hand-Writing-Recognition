@@ -36,3 +36,6 @@ Install the required dependencies (tensorflow, opencv-python, matplotlib).
 Load the trained model (HWR_model.keras) for inference.
 Acknowledgments
 Kaggle Handwriting Recognition Dataset for providing the dataset.
+
+
+fndksa
